@@ -1,0 +1,43 @@
+
+header{
+    text-align: center;
+    margin-right: 200px;
+
+
+}
+
+h1{
+    text-align: center;
+    color: rgb(161, 82, 161);
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(161, 82, 161);
+  padding: 10px;
+  margin-right: 1000px;
+  margin-bottom: 20px;
+}
+  
+  nav, ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  nav,li {
+    margin-right: 10px;
+  }
+  
+  nav, a {
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+  }
+  p {
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+
+  
+  }
